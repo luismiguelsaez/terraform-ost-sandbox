@@ -1,0 +1,9 @@
+---
+
+plugin: openstack
+inventory_hostname: name
+cache: True
+cache_plugin: jsonfile
+cache_timeout: 3600 
+cache_connection: /tmp/ansible_inventory
+cache_prefix: openstack

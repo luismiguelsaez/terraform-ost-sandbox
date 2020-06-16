@@ -1,0 +1,3 @@
+sandbox:
+  children:
+    meta-environment_sandbox:
